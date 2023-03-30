@@ -24,7 +24,7 @@ div.imagen {
 /* Wallpaper */
 
 body{
-    background-color: rgb(85, 202, 67);
+    background-color: rgb(177, 255, 187);
 }
 /*Título*/
 h1{
@@ -41,13 +41,4 @@ h2{
     font-size: larger;
 }
 
-/*Menú*/
-h4{
-    color: aliceblue;
-    font-family: 'Roboto', sans-serif;
-}
-
-p{
-    color: aliceblue;
-    font-family: 'Roboto', sans-serif;
-}
+/*Giuly a*/
