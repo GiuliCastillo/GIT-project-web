@@ -42,38 +42,9 @@ h2{
 }
 
 /*ignorar esto por favor*/
-.slider-frame{
-    width: 500;
-    height: auto;
-    margin: 50px auto 0;
-    overflow: hidden;
-
-    animation: slide 15s infinite alternate ease-in-out;
-
-}
-
 .slider-frame ul{
     display: flex;
     padding: 0;
     width: auto;
 }
 
-.slider-frame li{
-    list-style: none;
-    width: 100%;
-}
-
-.slider-frame img{
-    width: 100%;
-}
-
-@keyframes slide {
-    0%{margin-left:0%;}
-    30%{margin-left:0%;}
-
-    35%{margin-left:-100%;}
-    65%{margin-left:-100%;}
-
-    70%{margin-left:-200%;}
-    100%{margin-left:-200%;}
-}
