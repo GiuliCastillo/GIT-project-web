@@ -275,14 +275,13 @@ p{
   body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-   background: url(imagen.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
 * {
     box-sizing: border-box;
 }
-.contenedor{
+.contenedorc{
     width: 100%;
     padding: 15px;
 }
@@ -307,12 +306,8 @@ input[type="password"]{
     margin-bottom: 15px;
     border: 1px solid #aaa;
 }
-.icon{
-    min-width: 50px;
-    text-align: center;
-    color: #999;
-}
-.button{
+
+.buttonc{
     border: none;
     width: 100%;
     color: white;
